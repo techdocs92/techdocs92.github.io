@@ -1,1 +1,4 @@
-attempt at adding new file to the theme
+**attempt at adding new file to the theme**
+Heading Two
+-----------
+
