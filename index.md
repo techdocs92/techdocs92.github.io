@@ -1,4 +1,0 @@
-Heading One
-===========
-
-Some text
